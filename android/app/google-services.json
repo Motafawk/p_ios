@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844209157648",
+    "project_id": "motafawk-eb667",
+    "storage_bucket": "motafawk-eb667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844209157648:android:7bf7eb76e7826e63273c95",
+        "android_client_info": {
+          "package_name": "com.mhma.motafawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844209157648-4t74a10g6fu0ii7uvqmk627kbved3snk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPcdzBUMR5o_eHb_QGHLkz9SPPYPrUWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844209157648-4t74a10g6fu0ii7uvqmk627kbved3snk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
